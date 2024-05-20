@@ -1,6 +1,4 @@
-# Define Seasons and Players
-Seasons <- c("2005","2006","2007","2008","2009","2010","2011","2012","2013","2014")
-Players <- c("KobeBryant","JoeJohnson","LeBronJames","CarmeloAnthony","DwightHoward","ChrisBosh","ChrisPaul","KevinDurant","DerrickRose","DwayneWade")
+# load
 
 
 # Define free throws made for each player in each season
